@@ -38,7 +38,7 @@ export default function TabLayout() {
         tabBarInactiveTintColor: currentColors.tabIconDefault,
       })}
     >
-      <Tabs.Screen name="home" options={{ title: 'Inicio' }} />
+      <Tabs.Screen name="index" options={{ title: 'Inicio' }} />
       <Tabs.Screen name="resources" options={{ title: 'Recursos' }} />
       <Tabs.Screen name="diary" options={{ title: 'Diario' }} />
       <Tabs.Screen name="therapy" options={{ title: 'Terapia' }} />

@@ -17,7 +17,7 @@
       "versionCode": 1,
       "permissions": [],
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/psicolo.png",
         "backgroundColor": "#ffffff"
       }
     },
